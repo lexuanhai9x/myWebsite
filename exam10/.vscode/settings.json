@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "conio.h": "c"
+        "conio.h": "c",
+        "BT_S10_02.C": "cpp"
     }
 }
