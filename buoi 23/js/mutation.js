@@ -5,7 +5,7 @@ counter = document.getElementById("counter");
 function addItem(e){
     e.preventDefault();
     newEl = document.createElement ( "li");
-    newText = Document.createTextNode("new list item");
+    newText = document.createTextNode("new list item");
     newEl.appendChild(newText);
     elList.appendChild(newEl);
 }
